@@ -50,14 +50,13 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 
 
-## Data Flow transformation worklfow
+## Data Flow transformation workflow
 
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/a75cf673-a8a8-4f5f-87b3-45654dad57ae" />
 
 
-## Scripts for project
-1. [Extract Python File](mage-files/extract.py)
-2. [Load Python File](mage-files/load.py)
-3. [Transform Python File](mage-files/transform.py)
+## Transformation (PySpark files)
+1. 
+
 
 
