@@ -199,7 +199,7 @@
 					"location": {
 						"type": "AzureBlobFSLocation",
 						"fileName": "hospital_admissions.csv",
-						"folderPath": "ecdc/hospital_admissions",
+						"folderPath": "ECDC/hospital_admissions",
 						"fileSystem": "raw"
 					},
 					"columnDelimiter": ",",
@@ -396,7 +396,7 @@
 					"location": {
 						"type": "AzureBlobFSLocation",
 						"fileName": "cases_deaths.csv",
-						"folderPath": "ecdc/cases_deaths",
+						"folderPath": "ECDC/cases_deaths",
 						"fileSystem": "raw"
 					},
 					"columnDelimiter": ",",
