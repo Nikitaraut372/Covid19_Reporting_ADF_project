@@ -19,6 +19,10 @@
 			"type": "string",
 			"defaultValue": "https://covidreportingnr.dfs.core.windows.net/"
 		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"type": "string",
+			"defaultValue": "https://kv-covid-project.vault.azure.net/"
+		},
 		"ls_http_covid_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "@{linkedService().SourceBaseURL}"
@@ -58,6 +62,9 @@
 					},
 					"AzureDataLakeStorage1_properties_typeProperties_url": {
 						"value": "[parameters('AzureDataLakeStorage1_properties_typeProperties_url')]"
+					},
+					"AzureKeyVault1_properties_typeProperties_baseUrl": {
+						"value": "[parameters('AzureKeyVault1_properties_typeProperties_baseUrl')]"
 					},
 					"ls_http_covid_properties_typeProperties_url": {
 						"value": "[parameters('ls_http_covid_properties_typeProperties_url')]"
