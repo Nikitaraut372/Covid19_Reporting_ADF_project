@@ -57,9 +57,11 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 ## Silver-Layer (PySpark files)
 1.  - [Databricks_transformation_file](transformation_SilverLayer/transform_poulation_data.py)
+2.  - 
 
 ## Data transformation pipeline
 
-<img width="1640" height="579" alt="image" src="https://github.com/user-attachments/assets/a30c381b-46a9-411f-951c-0dbf6efd776f" />
+<img width="744" height="319" alt="image" src="https://github.com/user-attachments/assets/a65f7ef4-d8a1-4b8b-9e6f-e61e61e08eda" />
+
 
 
