@@ -69,6 +69,8 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 ## Monitoring Pipeline
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a84d7ac-3be3-41c1-af4f-fcb86e69c073" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/9e5f3912-411d-4d57-99cd-f89686b4ea44" />
+
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d9813ae4-900d-48c3-bf90-7b11cfa02703" />
 
