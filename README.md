@@ -74,6 +74,9 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d9813ae4-900d-48c3-bf90-7b11cfa02703" />
 
+## Power BI reports
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f3f1ee7e-1671-4278-bbea-363c66bfc07b" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/3b87a0e0-d696-46e5-a280-014f2b1ae1d5" />
 
 
 
