@@ -45,14 +45,14 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 ## Data ingestion pipeline
 
-<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/d998bbb1-1ffd-4270-99f8-cb8ddf1def9e" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d998bbb1-1ffd-4270-99f8-cb8ddf1def9e" />
 
 
 
 
 ## Data Flow transformation workflow
 
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/a75cf673-a8a8-4f5f-87b3-45654dad57ae" />
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/a75cf673-a8a8-4f5f-87b3-45654dad57ae" />
 
 
 ## Silver-Layer (PySpark files)
@@ -61,8 +61,16 @@ Population by age data — reference dataset (population_by_age.tsv.gz), sourced
 
 ## Data transformation pipeline
 
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/a65f7ef4-d8a1-4b8b-9e6f-e61e61e08eda" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/a65f7ef4-d8a1-4b8b-9e6f-e61e61e08eda" />
 
+## Parent Pipeline
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/7c02f537-d2e4-4bb7-a556-c84998921903" />
+
+## Monitoring Pipeline
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a84d7ac-3be3-41c1-af4f-fcb86e69c073" />
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d9813ae4-900d-48c3-bf90-7b11cfa02703" />
 
 
 
